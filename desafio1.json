@@ -5,7 +5,7 @@
     "tabela_que_contem_plano": "plans",
     "coluna_historico_de_reproducoes": "musicID",
     "tabela_que_contem_historico_de_reproducoes": "historic",
-    "coluna_seguindo_artistas": "dateFollow",
+    "coluna_seguindo_artistas": "userID",
     "tabela_que_contem_seguindo_artistas": "follows",
     "coluna_artista": "artistName",
     "tabela_que_contem_artista": "artist",
